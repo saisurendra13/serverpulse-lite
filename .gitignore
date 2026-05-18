@@ -1,0 +1,9 @@
+*.log
+_pycache_/
+*.pyc
+.env
+.ipynb_checkpoints/
+*.pem
+*.ppk
+.DS_Store
+Output/
