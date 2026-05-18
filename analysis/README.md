@@ -1,6 +1,6 @@
 # 📌 Project Overview
 
-Server Pulse Lite is a real-time server monitoring analytics project built using Python, Pandas, SQL, Jupyter Notebook, and Power BI.
+Server performance resource monitoring is a real-time server monitoring analytics project built using Python, Pandas, SQL, Jupyter Notebook, and Power BI.
 
 This notebook focuses on:
 
